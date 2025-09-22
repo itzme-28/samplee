@@ -1,4 +1,4 @@
 # Nmap
-![Nmap scan outputs](LOGO.png)
+![Nmap scan outputs](images/LOGO.png)
 in kali linux 
 Abouve output
