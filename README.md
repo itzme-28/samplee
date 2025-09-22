@@ -1,1 +1,1 @@
-![Nmap scan outputs](samplee/main/kali.png)
+![Nmap scan outputs](/images/LOGO.png)
